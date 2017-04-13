@@ -1,3 +1,5 @@
+from time import sleep
+
 print("hi")
 print("WHAT")
 sleep (3)
